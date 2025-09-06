@@ -1,4 +1,4 @@
-package com.example;
+package com.springboot.person;
 
 import java.util.Map;
 
@@ -28,3 +28,4 @@ public class AthenaQuery {
         System.out.println(buildQuery());  
     }
 }
+
